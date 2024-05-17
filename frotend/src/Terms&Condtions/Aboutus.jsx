@@ -109,7 +109,7 @@ const About_UsPage = () => {
             <Grid item xs={12} sm={6}>
               <img
                 src={TermsImage}
-                alt="CricketWeapon"
+                alt="H² MART"
                 className={classes.image_about}
               />
             </Grid>
@@ -122,20 +122,24 @@ const About_UsPage = () => {
                 About Us
               </Typography>
               <Typography variant="body1" className={classes.introText_about}>
-                CricketWeapon store is an online cricket sports selling startup
-                started in 2019. We have served more than 20,000 customers
-                through social media and other platforms. We are proud to offer
-                our own products under the brand name CW, also known as "Cricket
-                Weapon".
+              H² MART is built on a foundation of passion for quality
+               products and seamless shopping experiences. Committed to customer 
+               satisfaction, we strive to curate a diverse selection of items that
+                cater to various tastes and preferences. With a focus on reliability
+                 and transparency, we foster trust through clear communication and
+                  dependable service. Our dedicated team works tirelessly to ensure
+                   every interaction, from browsing to checkout, is smooth and enjoyable.
+                    We value our community of shoppers and continuously seek ways to
+                     improve and innovate, guided by a shared vision of making online
+                      shopping convenient, delightful, and rewarding for all.
               </Typography>
               <Typography variant="body1" className={classes.introText_about}>
-                CricketWeapon was founded by Lokesh Samant, a talented cricket
-                player who has represented the Under 16 and Under 19 teams.
-                Lokesh started this business to support his expenses and
-                received an overwhelming response. He has sold cricket equipment
-                to more than 20,000 customers till date. Now, he aims to expand
-                his business to an international level by launching his own
-                website and introducing new and genuine cricket products at
+              H² MART was founded by Harshit Shukla and Harshit Mishra, a talented web developers
+                 who are persuing B.Tech from SRMCEM Lucknow.
+                they are final year CSE student. They had sold products
+                to more than 50 customers till date. Now, they aims to expand
+                their business to an international level by launching their own
+                website and introducing new and genuine products at
                 competitive prices.
               </Typography>
             </Grid>
@@ -150,20 +154,20 @@ const About_UsPage = () => {
             Who We Are
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            CricketWeapon is dedicated to providing high-quality cricket
-            equipment and accessories to cricket enthusiasts worldwide. Our
-            mission is to empower cricketers with the best tools to enhance
-            their performance on the field. With a focus on innovation,
-            craftsmanship, and customer satisfaction, we have become a trusted
-            brand in the cricket community.
+          H² MART is a dynamic e-commerce platform dedicated to revolutionizing the way
+            you shop online. Committed to providing an unparalleled shopping
+             experience, we offer a diverse range of products curated with
+              quality and value in mind. Our team is driven by a passion for
+               innovation and customer satisfaction, constantly striving to
+                exceed expectations.
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            Since our inception in 2019, we have built a strong customer base
-            and expanded our product range to cater to the diverse needs of
-            players at every level. We take pride in offering genuine cricket
-            products that are carefully curated and tested for quality and
-            performance. Our team of experts works closely with manufacturers to
-            ensure that our customers receive top-notch products.
+          With a user-friendly interface and secure payment options,
+           we make online shopping easy and enjoyable for everyone. 
+           Whether you're a buyer or a seller, we're here to connect
+            you with the products and services you need, fostering a
+             vibrant online community built on trust and reliability.
+              Welcome to our world of limitless possibilities.
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
             At CricketWeapon, we believe in fostering long-term relationships
@@ -183,22 +187,20 @@ const About_UsPage = () => {
             Our Mission
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            CricketWeapon is driven by the mission to provide high-quality
-            cricket equipment and accessories at affordable prices. We aim to
-            make cricket accessible to players worldwide and support their
-            passion for the sport. Our mission is to offer a wide range of
-            cricket equipment, including bats, balls, protective gear, and
-            accessories, that meet the highest standards of quality and
-            performance.
+          Our mission is to revolutionize the online shopping experience
+           by providing unparalleled convenience, choice, and value to our
+            customers. We aim to empower individuals and businesses alike
+             to discover, purchase, and sell products effortlessly on our platform.
+              Committed to innovation and customer-centricity, we continuously
+               seek to enhance our services, leveraging cutting-edge technology
+                and data-driven insights.
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            We are committed to continuously innovating and improving our
-            product range to meet the evolving needs of cricketers. Our team of
-            experts works closely with manufacturers and conducts rigorous
-            quality testing to ensure that every product we offer delivers
-            exceptional performance on the field. We believe that every player
-            deserves the best tools to enhance their skills and achieve their
-            cricketing goals.
+          We strive to foster a vibrant and inclusive online community,
+           where trust, integrity, and transparency are paramount.
+            Through our unwavering dedication to excellence, we aspire
+             to be the premier destination for all online shopping needs,
+              enriching lives and driving positive change in the digital marketplace.
           </Typography>
 
           <div className={classes.buttonContainer_about}>

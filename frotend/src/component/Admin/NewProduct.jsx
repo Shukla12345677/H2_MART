@@ -67,17 +67,17 @@ function NewProduct() {
     fileInputRef.current.click();
   };
  const categories = [
-   "Cricket Kits",
-   "Batting Gloves",
-   "Batting Pads",
-   "Bats",
-   "Bags",
-   "Helmets",
-   "Balls",
-   "Stumps",
-   "Shoes",
-   "Clothing",
-   "Accessories",
+  "Mobile phones",
+  "Headphones",
+  "Watches",
+  "Earbuds",
+  "TVs",
+  "Shoes",
+  "Tshirts",
+  "Camera",
+  "Sunglasses",
+  "Cookies",
+  "Appliances",
  ];
   useEffect(() => {
     if (error) {

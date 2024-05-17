@@ -233,7 +233,7 @@ const ContactForm = () => {
           <br />
           15130 Sec 22
           <br />
-          Noida, UP 201301
+          Semra Matiyari Lucknow
           <br />
           India
         </Typography>
