@@ -170,7 +170,7 @@ const About_UsPage = () => {
               Welcome to our world of limitless possibilities.
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            At CricketWeapon, we believe in fostering long-term relationships
+            At H² Mart, we believe in fostering long-term relationships
             with our customers. We provide excellent customer service and strive
             to exceed expectations at every step. We are committed to delivering
             a seamless online shopping experience and ensuring customer
